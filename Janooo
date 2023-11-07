@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Wykonał Łukowski </title>
+    <meta charset="UTF-8">
+	<LI><a HREF="https://github.com/johnyzkosmosu/Jan-Lukowski/blob/main/mail.html"> Strona poczty </A>&nbsp <br></LI>
+	<LI><a HREF=""> Strona formularza </A>&nbsp <br></LI>
+	<LI><a HREF=""> Strona tabeli </A>&nbsp <br></LI>
+	<FIELDSET>
+    <title> <u> Hurtownia Akcesoriów Fryzjerskich </u> </title>
+    <meta name="author" content="Łukowski">
+    <HR SIZE=6 WIDTH=40% ALIGN=right COLOR=purple>
+    <style>
+        /* Style dla linii poziomych */
+        .line1 {
+            border-top: 2px solid red;
+        }
+        .line2 {
+            border-top: 3px dashed blue;
+        }
+        .line3 {
+            border-top: 4px dotted green;
+        }
+
+        /* Styl dla nazwy hurtowni */
+        .store-name {
+            color: red;
+            font-size: 36px;
+            font-style: italic;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        /* Styl dla charakterystyki hurtowni */
+        .store-description {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            font-weight: bold;
+            text-align: left;
+        }
+
+        /* Styl dla logo hurtowni */
+        .store-logo {
+            width: 700px;
+            height: 200px;
+            border: 6px solid yellow;
+            text-align: center;
+            margin: 20px auto;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body style="background-color: gray;">
+
+    <header>
+        <h1 class="store-name">Hurtownia Akcesoriów Fryzjerskich</h1>
+    </header>
+
+    <section>
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+    </section>
+
+    <section>
+        <p class="store-description">
+		 <p align="left"> <font color="blue" size="3" face="Arial">  Nasza hurtownia oferuje szeroki wybór <sub>akcesoriów fryzjerskich </sub>, kosmetyków i <sup>narzędzi do pielęgnacji </sup> włosów.
+            Zapewniamy produkty najwyższej jakości, dostępne w konkurencyjnych cenach.  </font> </p> 
+			 <p align="left"> <font color="red" size="5" face="Times New Roman">Nasza pasja do fryzjerstwa
+            pozwala nam zaspokoić potrzeby naszych klientów i sprostać wymaganiom profesjonalistów z branży. </font> </p> <br> 
+        </p>
+		<HR SIZE=7 WIDTH=60% ALIGN=left COLOR=blue>
+        <ul>
+            <li><span style="color: blue;">Kosmetyki</span> - szampony, odżywki, farby</li>
+            <li><span style="color: green;">Nożyczki</span> - profesjonalne narzędzia fryzjerskie</li>
+            <li><span style="color: purple;">Akcesoria</span> - grzebienie, szczotki, suszarki</li>
+            <li><span style="color: orange;">Koloryzacja</span> - farby, akcesoria do koloryzacji</li>
+            <li><span style="color: red;">Meble</span> - fotele, lustra, stoliki</li>
+        </ul>
+    </section>
+
+    <section>
+        <div class="store-logo">
+            <img src="https://nova-hurt.pl/wp-content/uploads/2017/03/Akcesoria.jpg" ALIGN=right BORDER=1 WIDTH=700 HEIGHT=200 ALT=logo_Łukowski.jpg>
+            
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Hurtownia Akcesoriów Fryzjerskich - Łukowski</p>
+		<HR SIZE=1 WIDTH=10% ALIGN=left COLOR=red>
+    </footer>
+	</FIELDSET>
+</body>
+</html>
